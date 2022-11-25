@@ -1,0 +1,26 @@
+C:\Users\mrsouza\Documents\SharpDevelop Projects\AnalisadorQW\Analisador de QW\bin\Debug\Analisador de QW.exe
+C:\Users\mrsouza\Documents\SharpDevelop Projects\AnalisadorQW\Analisador de QW\bin\Debug\Analisador de QW.pdb
+C:\Users\mrsouza\Documents\SharpDevelop Projects\AnalisadorQW\Analisador de QW\bin\Debug\MRS_utilitarios.dll
+C:\Users\mrsouza\Documents\SharpDevelop Projects\AnalisadorQW\Analisador de QW\bin\Debug\MRS_utilitarios.pdb
+C:\Users\mrsouza\Documents\SharpDevelop Projects\AnalisadorQW\Analisador de QW\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mrsouza\Documents\SharpDevelop Projects\AnalisadorQW\Analisador de QW\obj\x86\Debug\Analisador_de_QW.FrmEntrada.resources
+C:\Users\mrsouza\Documents\SharpDevelop Projects\AnalisadorQW\Analisador de QW\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mrsouza\Documents\SharpDevelop Projects\AnalisadorQW\Analisador de QW\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mrsouza\Documents\SharpDevelop Projects\AnalisadorQW\Analisador de QW\obj\x86\Debug\Analisador de QW.exe
+C:\Users\mrsouza\Documents\SharpDevelop Projects\AnalisadorQW\Analisador de QW\obj\x86\Debug\Analisador de QW.pdb
+C:\Users\Marcio\OneDrive\Trabalho\Projetos\AnalisadorQW\Analisador de QW\bin\Debug\Analisador de QW.exe
+C:\Users\Marcio\OneDrive\Trabalho\Projetos\AnalisadorQW\Analisador de QW\bin\Debug\Analisador de QW.pdb
+C:\Users\Marcio\OneDrive\Trabalho\Projetos\AnalisadorQW\Analisador de QW\obj\x86\Debug\Analisador_de_QW.FrmEntrada.resources
+C:\Users\Marcio\OneDrive\Trabalho\Projetos\AnalisadorQW\Analisador de QW\obj\x86\Debug\Analisador de QW.csproj.GenerateResource.Cache
+C:\Users\Marcio\OneDrive\Trabalho\Projetos\AnalisadorQW\Analisador de QW\obj\x86\Debug\Analisador de QW.exe
+C:\Users\Marcio\OneDrive\Trabalho\Projetos\AnalisadorQW\Analisador de QW\obj\x86\Debug\Analisador de QW.pdb
+C:\Users\Marcio\OneDrive\Trabalho\Projetos\AnalisadorQW\Analisador de QW\obj\x86\Debug\Analisador de QW.csprojResolveAssemblyReference.cache
+D:\Marcio\Skydrive\Trabalho\Projetos\AnalisadorQW\Analisador de QW\obj\x86\Debug\Analisador de QW.csprojResolveAssemblyReference.cache
+D:\Marcio\Skydrive\Trabalho\Projetos\AnalisadorQW\Analisador de QW\obj\x86\Debug\Analisador_de_QW.FrmEntrada.resources
+D:\Marcio\Skydrive\Trabalho\Projetos\AnalisadorQW\Analisador de QW\obj\x86\Debug\Analisador de QW.csproj.GenerateResource.Cache
+D:\Marcio\Skydrive\Trabalho\Projetos\AnalisadorQW\Analisador de QW\obj\x86\Debug\Analisador de QW.exe
+D:\Marcio\Skydrive\Trabalho\Projetos\AnalisadorQW\Analisador de QW\obj\x86\Debug\Analisador de QW.pdb
+D:\Marcio\Skydrive\Trabalho\Projetos\AnalisadorQW\Analisador de QW\bin\Debug\Analisador de QW.exe
+D:\Marcio\Skydrive\Trabalho\Projetos\AnalisadorQW\Analisador de QW\bin\Debug\Analisador de QW.pdb
+D:\Marcio\Skydrive\Trabalho\Projetos\AnalisadorQW\Analisador de QW\bin\Debug\MRS_utilitarios.dll
+D:\Marcio\Skydrive\Trabalho\Projetos\AnalisadorQW\Analisador de QW\bin\Debug\MRS_utilitarios.pdb
